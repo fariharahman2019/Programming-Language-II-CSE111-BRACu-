@@ -1,0 +1,8 @@
+import java.util.Scannerl
+public class Task
+{
+  public static void main(String[] args)
+  {
+    Scanner sc = new Scanner(System.in);
+  }
+}

@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class hudai
+{
+  public static void main(String[] args)
+  {
+    Scanner sc = new Scanner(System.in);
+    System.out.println("Please enter any code");
+    int codeForLol = sc.nextInt();
+    
+    (int) codeForLol = char lol;
+    
+    System.out.print(codeForLol+":"+lol);
+  }
+}
